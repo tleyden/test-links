@@ -84,4 +84,7 @@ And there you have it! You now understand what an IVF-PQ index is, and how to cr
 To see how to create an IVF-PQ index in LanceDB, take a look at the [ANN indexes](../ann_indexes.md) section.
 
 [403](https://httpstat.us/403)
+
 [403b](https://httpstat.us/403)
+
+[404](https://httpstat.us/404)
