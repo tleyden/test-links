@@ -1,5 +1,5 @@
 
-![](../assets/hello2.png)
+![Diagram showing a cluster of similar entities with highlighted clusters](../assets/hello2.png)
 
 .
 
