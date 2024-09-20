@@ -1,0 +1,13 @@
+API
+APIs
+Hyperlint
+SDKs
+[cC]odebook
+[lL]ossy
+[qQ]uantizing
+[sS]ubvector
+[sS]ubvectors
+[vV]oronoi
+preprocess
+tokenization
+tokenizer
