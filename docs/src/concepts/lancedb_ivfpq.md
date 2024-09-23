@@ -10,7 +10,7 @@ IVF-PQ is a composite index that combines inverted file index (IVF) and product 
 
 ### Product quantization
 
-Quantization is a compression technique used to reduce the dimensionality of an embedding to speed up search.
+Quantization quantization is a compression technique used to reduce the dimensionality of an embedding to speed up search.
 
 Product quantization (PQ) works by dividing a large, high-dimensional vector of size into equally sized subvectors. Each subvector is assigned a "reproduction value" that maps to the nearest centroid of points for that subvector. The reproduction values are then assigned to a codebook using unique IDs, which can be used to reconstruct the original vector.
 
