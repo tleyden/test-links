@@ -4,3 +4,6 @@
 ..
 
 [403](https://httpstat.us/403)
+
+
+[internal link](http://127.0.0.1/foo)
